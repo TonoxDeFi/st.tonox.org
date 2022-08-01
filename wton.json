@@ -2,6 +2,6 @@
     "name": "Wrapped TON",
     "symbol": "WTON",
     "description": "Wrapped Toncoin",
-    "image": "https://st.tonox.org/wton.svg",
+    "image": "https://st.tonox.org/wton.png",
     "decimals": "9"
 }
