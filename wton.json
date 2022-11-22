@@ -1,7 +1,7 @@
 {
-    "name": "Wrapped TON",
+    "name": "WTON",
     "symbol": "WTON",
-    "description": "Wrapped Toncoin",
+    "description": "WTON",
     "image": "https://st.tonox.org/wton.png",
     "decimals": "9"
 }
